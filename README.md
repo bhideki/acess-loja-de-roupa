@@ -1,2 +1,9 @@
 # acess-loja-de-roupa
-Front-end e Back-end de um sistema de loja de roupa, usando VBA no acess
+
+en-us
+Front-end and Back-end of a clothing store system, using VBA in
+Microsoft Access
+
+pt-br
+Front-end e Back-end de um sistema de loja de roupas, usando VBA no
+Microsoft Access
